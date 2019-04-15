@@ -1,0 +1,12 @@
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/bin/Debug/Masvtest.exe
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/bin/Debug/Masvtest.pdb
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/obj/x86/Debug/TestCommandSharp.csprojAssemblyReference.cache
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/obj/x86/Debug/TestCommandSharp.csproj.CoreCompileInputs.cache
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/obj/x86/Debug/Masvtest.exe
+/Users/junior/Projects/CSharp/Masvtest/Masvtest/obj/x86/Debug/Masvtest.pdb
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/bin/Debug/Masvtest.exe
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/bin/Debug/Masvtest.pdb
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/obj/x86/Debug/TestCommandSharp.csprojAssemblyReference.cache
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/obj/x86/Debug/TestCommandSharp.csproj.CoreCompileInputs.cache
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/obj/x86/Debug/Masvtest.exe
+/Users/junior/Projects/CSharp/TestCommandSharp/Masvtest/obj/x86/Debug/Masvtest.pdb
