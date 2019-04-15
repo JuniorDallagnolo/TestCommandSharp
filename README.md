@@ -14,4 +14,4 @@ Example parameters and output (the quotes are not part of the input or output):
 "8hello" -> "pmttw"
 "5zoo" -> "ett"
 
-# Use the IDE or even the command line to pass the parameters
+# Use the IDE debug to pass arguments for testing
